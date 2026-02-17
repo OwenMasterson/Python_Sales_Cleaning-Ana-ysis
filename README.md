@@ -5,8 +5,8 @@ This project demonstrates how to upload, load, and explore a sales dataset using
 The script provides a practical introduction to working with CSV files in a cloud‑based environment using pandas. It begins by uploading a dataset into Google Colab, loading it into a DataFrame, and then applying common exploratory techniques to understand the structure and content of the sales data. Through operations like head(), tail(), shape inspection, column selection, and conditional filtering, the project highlights how pandas enables fast and flexible data manipulation for early‑stage analysis.
 
 # What the Code Does
-* Uploads a CSV file into Google Colab
-*Loads the file into a pandas DataFrame
+* Uploads a CSV file into Google Colab  
+* Loads the file into a pandas DataFrame
 * Displays the first and last ten rows of the dataset
 * Retrieves the number of rows and columns
 * Selects specific columns for focused analysis
